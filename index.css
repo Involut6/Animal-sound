@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  background-color: #19282F;
+}
+
+h1 {
+  font-family: 'Zilla Slab';
+  line-height: 2;
+  color: #219F94;
+  font-weight: 700;
+  font-size: 4rem;
+}
+
+p {
+  font-family: sans-serif;
+  color: white;
+}
+
+.buttons {
+  margin: 8% 3%;
+}
+
+
+.animal {
+  border: 3px solid #219F94;
+  font-family: 'Zilla Slab';
+  font-weight: 700;
+  margin: 1%;
+  font-size: 6rem;
+  color: #219F94;
+  width: 12%;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.c {
+  background-image: url("Animal-img/cat.jfif");
+}
+
+.d {
+  background-image: url("Animal-img/dog.jfif");
+}
+
+.l {
+  background-image: url("Animal-img/lion.jfif")
+}
+
+.e {
+  background-image: url("Animal-img/elephant.jfif")
+}
+
+.m {
+  background-image: url("Animal-img/monkey.jfif")
+}
+
+.p {
+  background-image: url("Animal-img/pig.jfif")
+}
